@@ -6,82 +6,54 @@
         "contacts": "contacts"
     },
     "footer": {
-        "description": "Web designer and front-end developer based in Ukraine",
-        "copyright": "Copyright 2023. Made by Elias",
+        "description": "UX/UI Designer and Developer based in New Jersey, USA.",
+        "copyright": "Copyright 2024. Design Credit ~ Elias from Figma community ~ https://eliasdevis.github.io/",
         "media": "Media"
     },
     "skills": {
         "language": "Languages",
-        "database": "Databases",
-        "other": "Other",
+        "User_Research": "User Research",
+        "Wireframe_Developement": "Wireframe Developement",
         "tool": "Tools",
-        "framework": "Frameworks"
+        "Web_Technologies": "Web Technologies"
     },
     "projects": {
-        "chertnodes": {
-            "name": "ChertNodes",
-            "description": "Minecraft servers hosting"
-        },
-        "protectx": {
-            "name": "ProtectX web",
-            "description": "Discord anti-crash bot"
-        },
-        "khanswers": {
-            "name": "Kahoot Answers",
-            "description": "Get answers from kahoot quiz"
-        },
-        "kotikbot": {
-            "name": "KotikBot",
-            "description": "Landing for multi-functional cute discord bot"
-        },
         "portfolio": {
             "name": "This Portfolio",
             "description": "My personal portfolio"
         },
-        "blog": {
-            "name": "My blog",
-            "description": "Front-end of my future blog website"
+        "ifcu": {
+            "name": "IFCU",
+            "description": "International Federation of Catholic Universities Website"
         },
-        "discordbot": {
-            "name": "Discord Bot Boilerplate",
-            "description": "Start creating scalable discord.js bot with typescript in seconds"
+        "walsh": {
+            "name": "Walsh Library Homepage",
+            "description": "Seton Hall - Walsh Library Website"
         },
-        "chesspro": {
-            "name": "Chess PRO",
-            "description": "Landing page about service for viewing chess tournaments"
+        "ihs": {
+            "name": "The IHS Library Website",
+            "description": "Seton Hall - The IHS Library Website"
         },
-        "ooku": {
-            "name": "Ooku",
-            "description": "Link shortener with discord auth"
+        "hci_proj": {
+            "name": "Final Project for Human-Computer Interaction Course",
+            "description": "Final Project for Human-Computer Interaction Course"
         },
-        "madhost": {
-            "name": "MadHost",
-            "description": "Minecraft and websites hosting with low prices"
-        },
-        "feedrum": {
-            "name": "Feedrum",
-            "description": "Ukrainian social network designed for programmers"
-        },
-        "deplos": {
-            "name": "Deplos",
-            "description": "Game servers hosting"
-        },
-        "pixel-battle": {
-            "name": "Pixel Battle",
-            "description": "Pixel art battle game"
+        "hci_proj2": {
+            "name": " Project for Human-Computer Interaction Course",
+            "description": "Final Project for Human-Computer Interaction Course"
         }
     },
     "pages": {
         "home": {
             "hero": {
-                "title": "Elias is a <span>web designer</span> and <span>front-end</span> developer",
-                "description": "He crafts responsive websites where technologies meet creativity",
-                "button": "Contact ME",
-                "status": "Open for new opportunities"
+                "title": "Gabriela is a <span>UX/UI Designer</span> and <span>Developer</span>",
+                "description": "Specializes in developing intuitive and engaging digital experiences, with a strong focus on user-centered design.",
+                "button": "Contact Me",
+                "status": "Open to new opportunities"
             },
             "quote": {
-                "text": "With great power comes great electricity bill",
-                "author": "Dr. Who"
+                "text": "It's life that matters, nothing but life—the process of discovering, the everlasting and perpetual process, not the discovery itself, at all.",
+                "author": "Fyodor Dostoyevsky, The Idiot"
             },
             "projects": {
                 "title": "projects",
@@ -93,31 +65,28 @@
             "about": {
                 "title": "about",
                 "description": [
-                    "I’m a self-taught front-end developer based in Kyiv, Ukraine. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. ",
-                    "Transforming my creativity and knowledge into a websites has been my passion for over a year. I have been helping various clients to establish their presence online. I always strive to learn about the newest technologies and frameworks."
+                    "I’m a developer based in New Jersey, USA. I develop intuitive, accessible websites and transform them into modern user-friendly web experiences.",
+                    "My passion for exploring the intersection of technology, human-computer interaction, and cognitive science has deepened over the past couple of years. Currently, I am pursuing a master's degree at Georgia Tech, where I actively apply the cutting-edge concepts I learn to enhance my professional projects."
                 ],
                 "button": "View all"
             },
             "contacts": {
                 "title": "contacts",
-                "text": "I’m interested in freelance opportunities. However, if you have other request or question, don’t hesitate to contact me",
+                "text": "I’m interested in freelance opportunities. However, if you questions, comments, or concerns, don’t hesitate to reach out!",
                 "media": "Message me here",
                 "donate": "Donate me here"
             }
         },
         "projects": {
-            "description": "All of my projects",
-            "decent": "decent",
-            "small": "small",
-            "inProgress": "unfinished"
+            "description": "My Projects"
+            
         },
         "about": {
-            "description": "Who am i",
+            "description": "Who am I?",
             "about": {
                 "description": [
-                    "I’m a self-taught front-end developer based in Kyiv, Ukraine. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. ",
-                    "Transforming my creativity and knowledge into a websites has been my passion for over a year. I have been helping various clients to establish their presence online. ",
-                    "I always strive to learn about the newest technologies and frameworks. "
+                    "I’m a developer based in New Jersey, USA. I develop intuitive, accessible websites and transform them into modern user-friendly web experiences.",
+                    "My passion for exploring the intersection of technology, human-computer interaction, and cognitive science has deepened over the past couple of years. Currently, I am pursuing a master's degree at Georgia Tech, where I actively apply the cutting-edge concepts I learn to enhance my professional projects."
                 ]
             },
             "skills": {
@@ -126,10 +95,10 @@
             "facts": {
                 "title": "fun-facts",
                 "list": [
-                    "I like winter more than summer", 
-                    "I often bike with my friends",
-                    "I like pizza and pasta", 
-                    "My favorite movie is The Green Mile"
+                    "My favorite season is Autumn.", 
+                    "I love to take my dog to cool places!",
+                    "I love seafood and pasta!", 
+                    "My favorite movie trilogy is Lord of the Rings."
                 ]
             }
         },

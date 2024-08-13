@@ -11,7 +11,7 @@ export default (t) => {
             <div class="media-header">
                 <span class="media-header__line"></span>
                 <div class="media-header__links">
-                    ${["discord", "github", "email"]
+                    ${["linkedin", "github", "email"]
                         .map((name) => MediaIcon({ name }))
                         .join("")}
                 </div>
@@ -22,8 +22,8 @@ export default (t) => {
 
                 <div class="header__inner">
                     <a class="logo" href="/">
-                        <img class="logo__img" src="/images/logo.svg" alt="Elias logo">
-                        <span class="logo__name">Elias</span>
+                        <img class="logo__img" src="/images/logo.svg" alt="Gabriela logo">
+                        <span class="logo__name">Gabriela</span>
                     </a>
                     <div class="header__links">
                         ${paths
@@ -38,14 +38,14 @@ export default (t) => {
                             )
                             .join("")}
                     </div>
-                    <div class="dropdown">
+                    <!--div class="dropdown">
                         <span class="dropdown__label">en</span>
 
                         <div class="dropdown__list">
                             <div class="dropdown__option">ru</div>
                             <div class="dropdown__option">ua</div>
                         </div>
-                    </div>
+                    </div-->
 
                 </div>
             </div>
