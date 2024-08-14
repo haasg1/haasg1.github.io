@@ -30,7 +30,7 @@ const projects = [
     {
         id: "portfolio",
         links: {
-            github: "/haasg1.github.io",
+            github: "haasg1/haasg1.github.io", 
             live: "haasg1.github.io/"
         },
         techs: ["js", "sass", "webpack", "html", "css"],
