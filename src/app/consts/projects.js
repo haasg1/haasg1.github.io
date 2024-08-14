@@ -30,8 +30,8 @@ const projects = [
     {
         id: "portfolio",
         links: {
-            github: "",
-            live: ""
+            github: "/haasg1.github.io",
+            live: "https://haasg1.github.io/"
         },
         techs: ["js", "sass", "webpack", "html", "css"],
         hasImage: true,
@@ -39,7 +39,7 @@ const projects = [
     {
         id: "hci_proj",
         links: {
-            github: "https://github.com/haasg1/HCI-Project"
+            github: "/HCI-Project"
         },
         techs: ["figma", "lc", "ut", "interviews", "surveys"],
         hasImage: true,
@@ -47,7 +47,7 @@ const projects = [
     {
         id: "hci_proj2",
         links: {
-            github: "https://github.com/haasg1/HCI-OngoingProject"
+            github: "/HCI-OngoingProject"
         },
         techs: ["figma", "lc", "ut", "interviews", "surveys"],
         hasImage: true,
