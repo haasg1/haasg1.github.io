@@ -57,7 +57,7 @@ const projects = [
         links: {
             live: "https://drive.google.com/file/d/1-SAtLK-jUsHJzfa24YGZKal2EzlQty04/view?usp=sharing"
         },
-        techs: [],
+        techs: ["python"],
         hasImage: true,
     }
 ];
