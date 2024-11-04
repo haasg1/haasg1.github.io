@@ -51,6 +51,14 @@ const projects = [
         },
         techs: ["figma", "lc", "ut", "interviews", "surveys"],
         hasImage: true,
+    },
+    {
+        id: "sl1",
+        links: {
+            live: "https://drive.google.com/file/d/1-SAtLK-jUsHJzfa24YGZKal2EzlQty04/view?usp=sharing"
+        },
+        techs: [],
+        hasImage: true,
     }
 ];
 
