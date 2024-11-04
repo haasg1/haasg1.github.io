@@ -59,7 +59,7 @@ const projects = [
         },
         techs: ["python"],
         hasImage: true,
-    }
+    },
 ];
 
 export default projects;
