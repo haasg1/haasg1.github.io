@@ -39,8 +39,12 @@
             "description": "Final Project for Human-Computer Interaction Course"
         },
         "hci_proj2": {
-            "name": " Project for Human-Computer Interaction Course",
+            "name": "Project for Human-Computer Interaction Course",
             "description": "Final Project for Human-Computer Interaction Course"
+        }
+        "sl1": {
+            "name": "Supervised Learning Assignment",
+            "description": "Supervised learning assignment completed for ML course."
         }
     },
     "pages": {
